@@ -9,7 +9,7 @@ git stash --all
 rm -rf ./public/*
 
 # Generate the static site in the default /public folder.
-hugo
+./hugo
 
 # Add changes to the git submodule.
 cd public
