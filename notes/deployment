@@ -3,9 +3,20 @@ https://backendology.com/2018/08/31/hugo-newsletter/
 
 Use TinyLetter and Zapier
 1. Set up TinyLetter account
+TinyLetter email address: beamer-8ef11a50e9b45db86bb064024b3885fa270cea07@tinyletter.com to send newsletter.
 
 TinyLetter is a personal newsletter service created by the same people who make MailChimp.
 TinyLetter is for people who don’t need all the business features that come along with MailChimp. Simplicity is at the heart of everything we do at TinyLetter.
 TinyLetter is a completely free service.1
 Unfortunately, the company plans to merge TinyLetter into their MailChimp offering.2 I still recommend it for the time being due to its sheer simplicity.
 
+1. Set up Zapier account
+
+Zapier is a service that allows you to set up integrations (zaps) between web services, email, RSS, apps, devices, etc. You configure a trigger and allows the service to run
+Zapier is not required. But this will automate the process better.
+
+It will check your blog's RSS feeds every 5 minutes, automatically format, and send email to tinyletter.
+
+
+Set up domain
+https://domains.google.com/registrar/datavin.org/settings#dreg-verify-billing-email
