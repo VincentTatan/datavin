@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1b11f0ba-a01e-4831-a21d-61841d20fdd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/about/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/contact.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/post/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/post/chapter-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/post/chapter-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/post/chapter-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/post/chapter-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/post/chapter-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/content/post/chapter-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/static/images/Pope-Edouard-de-Beaumont-1844.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/static/images/Victor_Hugo-Hunchback.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/static/images/esmeralda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke/exampleSite/static/images/notebook.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/gohugo-theme-ananke" />
+  </component>
+  <component name="ProjectId" id="1kg8exRIz3Z26qChWhHitcsZamw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Competition" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\Vincent Portfolio\content\post" />
+      <recent name="C:\Users\User\PycharmProjects\Vincent Portfolio\content" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b11f0ba-a01e-4831-a21d-61841d20fdd9" name="Default Changelist" comment="" />
+      <created>1606110973541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606110973541</updated>
+      <workItem from="1606571677242" duration="4962000" />
+      <workItem from="1607561573023" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606116254182">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/-1440.-50.1440.860@0.0.1366.728" timestamp="1606116254182" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1607561683633">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607561683633" />
+  </component>
+</project>
